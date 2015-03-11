@@ -7,5 +7,3 @@ a. Napišite funkciju koja će simulirati ukracaj putnika u luci. Potrebno je uk
 b. Napišite funkciju koja će u prvoj luci (naziv luke odaberite samostalno) iskrcati sve neoženjene/neudate putnike koji imaju između 18 i 25 godina (treba ih biti barem troje te dobne skupine na brodu). Nakon iskrcaja redoslijed preostalih putnika na brodu mora ostati nepromijenjen (prikazati stanje na stogu). Za realizaciju ove funkcije potrebno je koristiti pomoćni stog.
 
 c. Napišite funkciju koja će u drugoj luci (naziv luke odaberite samostalno) iskrcati sve udovice starije od 50 godina (barem tri putnice trebaju imati navedena obilježja). Nakon iskrcaja redoslijed preostalih putnika na brodu mora ostati nepromijenjen (prikazati stanje na stogu). Za realizaciju ove funkcije potrebno je koristiti rekurziju, bez korištenja pomoćnog stoga.
-
-d. Pomoću aplikacije Mindmeister potrebno je izraditi
